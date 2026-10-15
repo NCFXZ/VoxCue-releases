@@ -7,7 +7,7 @@ VoxCue 是本地 Windows 桌面面试准备应用，支持 ChatGPT / GitHub Copi
 ## 下载与安装
 
 1. 打开 [最新版本](https://github.com/NCFXZ/VoxCue-releases/releases/latest)。
-2. 下载 `VoxCue-Setup-0.1.0-x64.exe` 并运行，按安装向导完成安装。
+2. 下载 `VoxCue-Setup-0.1.1-x64.exe` 并运行，按安装向导完成安装。
 3. 从桌面或开始菜单打开 **VoxCue**。
 
 适用于 Windows 10/11 x64。安装包包含本地语音、资料处理模型和所需运行库，无需另外安装 Python、Node.js、WSL 或开发工具。首次下载包含模型，文件较大。当前安装包未进行代码签名，Windows 可能显示“未知发布者”。
