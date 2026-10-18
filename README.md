@@ -15,7 +15,7 @@ Windows 仅为当前用户安装。首次安装默认位于 `%LOCALAPPDATA%\Prog
 
 Windows 安装包未进行 Authenticode 签名，可能显示“未知发布者”。Mac 使用 ad-hoc 签名，未经过 Apple 公证，首次打开可能需要在“系统设置 → 隐私与安全性”中明确允许；当前不提供 Intel Mac 版本。
 
-`.blockmap`、`latest.yml`、Mac 的自动更新 ZIP 和 `latest-mac.yml` 供应用更新使用，首次安装无需下载这些文件。带 `previous` 字样的附件为历史备份，请使用上表中的当前下载入口。
+`.blockmap`、`latest.yml`、Mac 的自动更新 ZIP 和 `latest-mac.yml` 供应用更新使用，首次安装无需下载这些文件。
 
 ## Windows 0.2.2 安装修复
 
