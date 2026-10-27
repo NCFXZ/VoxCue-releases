@@ -4,22 +4,23 @@ VoxCue 是一款 Windows / macOS 桌面面试准备应用，支持准备聊天�
 
 ## 主要功能
 
-- **ChatGPT 登录与聊天**：通过浏览器完成授权，使用账户可用的模型，按需选择思考强度。
+- **账号与AI服务**：使用邮箱主账号注册、登录及找回密码，在设置中独立连接 ChatGPT 或 GitHub Copilot。
 - **面试准备**：围绕简历、职位描述和附件进行准备聊天，支持将文件拖入聊天区域，聊天、草稿和附件保存在本机。
 - **个人资料与知识库**：整理个人信息，导入文档并进行本地检索，为回答提供相关资料。
-- **实时面试辅助**：转写系统音频和麦克风内容，在面试浮窗中查看问题与回答，并调整面试正文字号。
+- **云同步**：个人资料、面试记录和知识库可分别开启同步，支持暂停、恢复及删除云端副本；标准总容量100 MB，个人资料可优先超额同步。
+- **实时面试辅助**：转写系统音频和麦克风内容，在面试浮窗中查看问题与回答，支持时长兑换、余额提醒和耗尽后保存本次记录。
 - **面试记录**：查看和导出面试记录，便于后续复盘。
 - **本地组件管理**：在「设置 → 本地组件」下载和管理语音、知识库模型，后续启动复用已下载的缓存。
 
 ## 获取安装包
 
-打开 [Releases 发行页面](https://github.com/NCFXZ/VoxCue-releases/releases)，选择包含所需平台安装包的发行，再展开 **Assets**。也可以先查看 [最新发行](https://github.com/NCFXZ/VoxCue-releases/releases/latest)。
+当前公开应用版本为 [Windows 0.6.0](https://github.com/NCFXZ/VoxCue-releases/releases/tag/v0.6.0)。
 
-| 平台 | 应下载的文件 |
+| 平台 | 下载 |
 | --- | --- |
-| Windows x64 | 名称为 `VoxCue-Setup-…-x64.exe` 的安装程序 |
-| macOS Apple Silicon（M 系列） | 名称为 `VoxCue-…-arm64.dmg` 的安装镜像 |
+| Windows x64 | [VoxCue-Setup-0.6.0-x64.exe](https://github.com/NCFXZ/VoxCue-releases/releases/download/v0.6.0/VoxCue-Setup-0.6.0-x64.exe) |
+| macOS Apple Silicon（M 系列） | 0.6.0待Mac本机适配与验收后补充 |
 
-Windows 下载后运行安装程序；Mac 打开 DMG 后，将 VoxCue 拖入 Applications。
+Windows下载后运行安装程序。旧版本安装包已转为非公开草稿，当前不提供旧版下载；模型资源保持公开，可继续由应用下载。
 
-`.blockmap`、`latest.yml`、`latest-mac.yml` 和 Mac ZIP 文件供应用自动更新使用，首次安装无需下载。
+`.blockmap`、`latest.yml`、`latest-mac.yml` 和 Mac ZIP 文件供应用自动更新使用，首次安装无需下载。验证码邮件未在收件箱出现时，请同时检查垃圾邮件。
