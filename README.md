@@ -21,6 +21,6 @@ VoxCue 是一款 Windows / macOS 桌面面试准备应用，支持准备聊天�
 | Windows x64 | [VoxCue-Setup-0.6.0-x64.exe](https://github.com/NCFXZ/VoxCue-releases/releases/download/v0.6.0/VoxCue-Setup-0.6.0-x64.exe) |
 | macOS Apple Silicon（M 系列） | [VoxCue-0.6.1-arm64.dmg](https://github.com/NCFXZ/VoxCue-releases/releases/download/v0.6.1/VoxCue-0.6.1-arm64.dmg) |
 
-Windows下载后运行安装程序。Mac支持Apple Silicon/macOS 14.2及以上，打开DMG后将VoxCue拖入Applications。旧版本安装包已转为非公开草稿，当前不提供旧版下载；模型资源保持公开，可继续由应用下载。
+Windows下载后运行安装程序。Mac支持Apple Silicon/macOS 14.2及以上，打开DMG后将VoxCue拖入Applications。已撤回的历史版本保持非公开草稿；Windows 0.6.0及模型资源保持可下载。
 
 `.blockmap`、`latest.yml`、`latest-mac.yml` 和 Mac ZIP 文件供应用自动更新使用，首次安装无需下载。验证码邮件未在收件箱出现时，请同时检查垃圾邮件。
