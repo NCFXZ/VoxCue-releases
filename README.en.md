@@ -12,7 +12,7 @@ VoxCue is a desktop interview preparation assistant for Windows and macOS. Organ
 - **Generate and update skills:** Build interview knowledge and talking points from your résumé and job description. Review and save changes individually, keeping reference knowledge separate from your actual experience.
 - **AI services:** Connect ChatGPT or GitHub Copilot and let the model search the web when needed. Preparation chats use selected knowledge bases only when explicitly requested.
 - **Live interview assistance:** Transcribe system audio and microphone input separately. View questions and answers in an always-on-top window, or ask questions using text and screenshots.
-- **Hideable interview window:** Collapse the interview window into a compact pill, or enable capture protection to hide its content from supported screenshots and screen sharing. Protection depends on the operating system and sharing software.
+- **Hidden from screen sharing:** With capture protection enabled, the interview window stays visible to you while being hidden from the shared screen, so other participants cannot see its contents. This requires support from the operating system and sharing software.
 - **Interview history:** Review transcripts, answers, and screenshots, with navigation, renaming, and export tools.
 - **Profile and knowledge bases:** Manage personal information and source documents, use local retrieval when needed, and enable cloud backup separately for your profile, interview history, and knowledge bases.
 - **Interface and content display:** Choose Simplified Chinese or English and light, dark, or system appearance. Chat and interview answers support LaTeX equations and matrices.
