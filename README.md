@@ -13,9 +13,9 @@ VoxCue 是一款 Windows / macOS 桌面面试准备助手。围绕简历和职�
 | 平台 | 当前安装包 | 系统要求 |
 | --- | --- | --- |
 | Windows | [0.6.7 · x64 EXE](https://github.com/NCFXZ/VoxCue-releases/releases/download/v0.6.7/VoxCue-Setup-0.6.7-x64.exe) | Windows 10 / 11，64 位 |
-| macOS | [0.6.6 · Apple Silicon DMG](https://github.com/NCFXZ/VoxCue-releases/releases/download/v0.6.6/VoxCue-0.6.6-arm64.dmg) | macOS 14.2 及以上，M 系列芯片 |
+| macOS | [0.6.7 · Apple Silicon DMG](https://github.com/NCFXZ/VoxCue-releases/releases/download/v0.6.7/VoxCue-0.6.7-arm64.dmg) | macOS 14.2 及以上，M 系列芯片 |
 
-本次 0.6.7 为 Windows 发行；Mac 0.6.7 尚未发布。两端按各自完整的稳定发行检查更新。首次安装只需下载 EXE 或 DMG；其他更新文件由应用使用。
+Windows 与 Mac 均已发布 0.6.7。两端按各自完整的稳定发行检查更新。首次安装只需下载 EXE 或 DMG；其他更新文件由应用使用。
 
 ## 主要功能
 
