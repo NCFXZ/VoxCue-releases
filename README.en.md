@@ -13,9 +13,9 @@ VoxCue is a desktop interview preparation assistant for Windows and macOS. Prepa
 | Platform | Current installer | Requirements |
 | --- | --- | --- |
 | Windows | [0.6.7 · x64 EXE](https://github.com/NCFXZ/VoxCue-releases/releases/download/v0.6.7/VoxCue-Setup-0.6.7-x64.exe) | Windows 10 / 11, 64-bit |
-| macOS | [0.6.6 · Apple Silicon DMG](https://github.com/NCFXZ/VoxCue-releases/releases/download/v0.6.6/VoxCue-0.6.6-arm64.dmg) | macOS 14.2 or later, M-series chip |
+| macOS | [0.6.7 · Apple Silicon DMG](https://github.com/NCFXZ/VoxCue-releases/releases/download/v0.6.7/VoxCue-0.6.7-arm64.dmg) | macOS 14.2 or later, M-series chip |
 
-Version 0.6.7 is a Windows release. Mac 0.6.7 is not yet available. Each platform checks for its own complete, stable release. For a first installation, download only the EXE or DMG; the app uses the other files for updates.
+Version 0.6.7 is available for Windows and Mac. Each platform checks for its own complete, stable release. For a first installation, download only the EXE or DMG; the app uses the other files for updates.
 
 ## Features
 
